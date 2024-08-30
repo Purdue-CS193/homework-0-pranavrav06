@@ -17,6 +17,7 @@ Syntax highlighted code block
 
 - The instructors are super chill
 - The class seems very non stressful
+- It is very easy to meet people in this class 
 
 1. Numbered
 2. List
